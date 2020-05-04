@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"É preciso, antes de mais nada, querer."
 Use the left arrow to go back!
